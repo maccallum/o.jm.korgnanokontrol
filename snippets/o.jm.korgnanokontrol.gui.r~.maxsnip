@@ -1,0 +1,46 @@
+{
+	"patcher" : 	{
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "bpatcher",
+					"viewvisibility" : 1,
+					"offset" : [ 0.0, 0.0 ],
+					"lockeddragscroll" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"lockedsize" : 0,
+					"bgmode" : 0,
+					"border" : 0,
+					"id" : "obj-7",
+					"numinlets" : 8,
+					"patching_rect" : [ 10.0, 10.0, 468.0, 25.0 ],
+					"numoutlets" : 8,
+					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
+					"name" : "o.jm.korgnanokontrol.r~.maxpat"
+				}
+
+			}
+ ],
+		"appversion" : 		{
+			"major" : 8,
+			"minor" : 2,
+			"revision" : 1,
+			"architecture" : "x64",
+			"modernui" : 1
+		}
+,
+		"classnamespace" : "box",
+		"description" : "468 x 25, containing 1 object",
+		"tags" : "",
+		"snippetinfo" : 		{
+			"name" : "o.jm.korgnanokontrol.gui.r~",
+			"objects" : "jpatcher",
+			"tags" : "",
+			"description" : "468 x 25, containing 1 object",
+			"image" : "iVBORw0KGgoAAAANSUhEUgAAAdQAAAAZCAYAAACIJt+yAAAABHNCSVQICAgIfAhkiAAAAtFJREFUeJzt3M9O4lAYhvH30EZQqQsU0ZvyYr0hVyhJDUGjQWihsyAwEMeZITl/7OfzWwkh/Xji4kB7qBuPx42OcHd3d8zLj3Z/fx/0+Mei1y9606LXL3rT+m69nUDvAwCAH4UFFQAAD1hQAQDwIPd1oOFwqE7n8/pc17WqqtLb25vW67WvccnRu0GvDfRu0GtDql5vC2pRFMrzrw+3Wq1UlqVeX199jUyK3kP0thu9h+htt1S93hbUrbquNZvN1Ol0lOe5zs/PlWWZsizTaDTScrnUx8eH77HJ0Esvve1FL70+e70vqKvVStPpdPfYOafb21v1+30551QUhal/GL300tte9NLrszf4pqSmafT8/Lx73O12Q49Mil56LaGXXktC90bZ5ds0v+8dYenC91fotY1e2+i1LWRvlAX19PR09/dyuYwxMil6baPXNnptC9kbfEHt9XoaDoeSNp8MZrNZ6JFJ0UuvJfTSa0noXu+bkrIs02AwUJ7n6na7u08DTdNoMpmormvfI5Oil15L6KXXkti93hfUPM91dXV18NxisdBkMtFisfA9Ljl66bWEXnotid3rfUFdr9d6f3+Xc079fl/SZquy1XPz9NJrCb30WhK71/s11Kqq9PT0pMfHx9356ZOTE41GI9+jvgV66bWEXnotid0bdFNSWZaqqkqSdHFxoaIoQo5Ljl56LaGXXkti9AZdULcXfre/+7m+vv7r/RXbjl56LaGXXkti9Ab/2cx8PtfLy4ukzY6rm5ub0COTopdeS+il15LQvVFu7LD/Vfvs7EyDwSDG2GTopdcSeum1JGRvtFsP7n/Vvry8VK/XizE6CXrptYReei0J2ettQd2+uf37JO6bz+e7XVbOudafWqD3EL30tgm9h+j10+vtiuzDw8M/X1OWpcqy9DUyKXo/o7e96P2M3vZK1RvllC8AANa58Xj85+/EAADgv/0CSEANyO3Xg7wAAAAASUVORK5CYII="
+		}
+
+	}
+
+}
