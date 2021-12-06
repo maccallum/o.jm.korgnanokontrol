@@ -276,7 +276,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 416.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 420.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 630.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[7]",
@@ -305,7 +305,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 366.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 360.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 540.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[6]",
@@ -334,7 +334,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 316.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 300.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 450.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[5]",
@@ -363,7 +363,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 266.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 360.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[4]",
@@ -392,7 +392,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 216.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 180.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 270.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[3]",
@@ -421,7 +421,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 166.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 120.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 180.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[2]",
@@ -450,7 +450,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 116.0, 302.0, 48.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 60.0, 0.0, 48.0, 136.0 ],
+					"presentation_rect" : [ 90.0, 0.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[1]",

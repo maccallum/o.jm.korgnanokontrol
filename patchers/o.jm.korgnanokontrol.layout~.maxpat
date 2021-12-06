@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 577.0, 87.0, 640.0, 480.0 ],
+		"rect" : [ 577.0, 87.0, 1129.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -256,7 +256,7 @@
 					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
 					"patching_rect" : [ 76.0, 108.0, 468.0, 38.29113924050634 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -12.0, 3.0, 468.0, 38.29113924050634 ],
+					"presentation_rect" : [ -12.0, 3.0, 716.0, 38.29113924050634 ],
 					"viewvisibility" : 1
 				}
 
@@ -279,7 +279,7 @@
 					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
 					"patching_rect" : [ 76.0, 149.354430379746844, 468.0, 38.29113924050634 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -12.0, 49.354430379746844, 468.0, 38.29113924050634 ],
+					"presentation_rect" : [ -12.0, 49.354430379746844, 716.0, 38.29113924050634 ],
 					"viewvisibility" : 1
 				}
 
@@ -302,7 +302,7 @@
 					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
 					"patching_rect" : [ 76.0, 190.708860759493689, 468.0, 38.291139240506311 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -12.0, 96.708860759493689, 468.0, 38.291139240506311 ],
+					"presentation_rect" : [ -12.0, 96.708860759493689, 716.0, 38.291139240506311 ],
 					"viewvisibility" : 1
 				}
 
@@ -325,7 +325,7 @@
 					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
 					"patching_rect" : [ 94.0, 94.0, 468.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 6.0, 0.0, 472.0, 136.0 ],
+					"presentation_rect" : [ 29.0, 0.0, 690.0, 136.0 ],
 					"viewvisibility" : 1
 				}
 

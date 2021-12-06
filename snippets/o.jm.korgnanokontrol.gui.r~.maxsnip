@@ -1,27 +1,6 @@
 {
 	"patcher" : 	{
-		"boxes" : [ 			{
-				"box" : 				{
-					"maxclass" : "bpatcher",
-					"viewvisibility" : 1,
-					"offset" : [ 0.0, 0.0 ],
-					"lockeddragscroll" : 0,
-					"clickthrough" : 0,
-					"enablehscroll" : 0,
-					"enablevscroll" : 0,
-					"lockedsize" : 0,
-					"bgmode" : 0,
-					"border" : 0,
-					"id" : "obj-7",
-					"numinlets" : 8,
-					"patching_rect" : [ 10.0, 10.0, 468.0, 25.0 ],
-					"numoutlets" : 8,
-					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
-					"name" : "o.jm.korgnanokontrol.r~.maxpat"
-				}
-
-			}
- ],
+		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 2,
@@ -31,16 +10,132 @@
 		}
 ,
 		"classnamespace" : "box",
+		"rect" : [ 84.0, 131.0, 1269.0, 480.0 ],
+		"bglocked" : 0,
+		"openinpresentation" : 0,
+		"default_fontsize" : 12.0,
+		"default_fontface" : 0,
+		"default_fontname" : "Arial",
+		"gridonopen" : 1,
+		"gridsize" : [ 15.0, 15.0 ],
+		"gridsnaponopen" : 1,
+		"objectsnaponopen" : 1,
+		"statusbarvisible" : 2,
+		"toolbarvisible" : 1,
+		"lefttoolbarpinned" : 0,
+		"toptoolbarpinned" : 0,
+		"righttoolbarpinned" : 0,
+		"bottomtoolbarpinned" : 0,
+		"toolbars_unpinned_last_save" : 0,
+		"tallnewobj" : 0,
+		"boxanimatetime" : 200,
+		"enablehscroll" : 1,
+		"enablevscroll" : 1,
+		"devicewidth" : 0.0,
 		"description" : "468 x 25, containing 1 object",
+		"digest" : "",
 		"tags" : "",
+		"style" : "",
+		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
+		"boxes" : [ 			{
+				"box" : 				{
+					"bgmode" : 0,
+					"border" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"id" : "obj-7",
+					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
+					"maxclass" : "bpatcher",
+					"name" : "o.jm.korgnanokontrol.r~.maxpat",
+					"numinlets" : 8,
+					"numoutlets" : 8,
+					"offset" : [ 0.0, 0.0 ],
+					"outlettype" : [ "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal", "multichannelsignal" ],
+					"patching_rect" : [ 10.0, 10.0, 675.0, 25.0 ],
+					"viewvisibility" : 1
+				}
+
+			}
+ ],
+		"lines" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "o.jm.korgnanokontrol.r~.maxpat",
+				"bootpath" : "~/Development/maccallum/o.jm.korgnanokontrol/patchers",
+				"patcherrelativepath" : "../patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.jm.korgnanokontrol.maxpat",
+				"bootpath" : "~/Development/maccallum/o.jm.korgnanokontrol/patchers",
+				"patcherrelativepath" : "../patchers",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.jm.korgnanokontrol.encoderhelper.maxpat",
+				"bootpath" : "~/Development/maccallum/o.jm.korgnanokontrol/patchers",
+				"patcherrelativepath" : "../patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.righttoleft.maxpat",
+				"bootpath" : "~/Development/CNMAT/CNMAT/CNMAT-odot/patchers/ordering",
+				"patcherrelativepath" : "../../../CNMAT/CNMAT/CNMAT-odot/patchers/ordering",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.jm.korgnanokontrol.buttonhelper.maxpat",
+				"bootpath" : "~/Development/maccallum/o.jm.korgnanokontrol/patchers",
+				"patcherrelativepath" : "../patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "thru.maxpat",
+				"bootpath" : "C74:/patchers/m4l/Pluggo for Live resources/patches",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "o.pack.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.append.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.prepend.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.collect.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.expr.codebox.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "o.route.mxo",
+				"type" : "iLaX"
+			}
+ ],
 		"snippetinfo" : 		{
 			"name" : "o.jm.korgnanokontrol.gui.r~",
 			"objects" : "jpatcher",
 			"tags" : "",
 			"description" : "468 x 25, containing 1 object",
-			"image" : "iVBORw0KGgoAAAANSUhEUgAAAdQAAAAZCAYAAACIJt+yAAAABHNCSVQICAgIfAhkiAAAAtFJREFUeJzt3M9O4lAYhvH30EZQqQsU0ZvyYr0hVyhJDUGjQWihsyAwEMeZITl/7OfzWwkh/Xji4kB7qBuPx42OcHd3d8zLj3Z/fx/0+Mei1y9606LXL3rT+m69nUDvAwCAH4UFFQAAD1hQAQDwIPd1oOFwqE7n8/pc17WqqtLb25vW67WvccnRu0GvDfRu0GtDql5vC2pRFMrzrw+3Wq1UlqVeX199jUyK3kP0thu9h+htt1S93hbUrbquNZvN1Ol0lOe5zs/PlWWZsizTaDTScrnUx8eH77HJ0Esvve1FL70+e70vqKvVStPpdPfYOafb21v1+30551QUhal/GL300tte9NLrszf4pqSmafT8/Lx73O12Q49Mil56LaGXXktC90bZ5ds0v+8dYenC91fotY1e2+i1LWRvlAX19PR09/dyuYwxMil6baPXNnptC9kbfEHt9XoaDoeSNp8MZrNZ6JFJ0UuvJfTSa0noXu+bkrIs02AwUJ7n6na7u08DTdNoMpmormvfI5Oil15L6KXXkti93hfUPM91dXV18NxisdBkMtFisfA9Ljl66bWEXnotid3rfUFdr9d6f3+Xc079fl/SZquy1XPz9NJrCb30WhK71/s11Kqq9PT0pMfHx9356ZOTE41GI9+jvgV66bWEXnotid0bdFNSWZaqqkqSdHFxoaIoQo5Ljl56LaGXXkti9AZdULcXfre/+7m+vv7r/RXbjl56LaGXXkti9Ab/2cx8PtfLy4ukzY6rm5ub0COTopdeS+il15LQvVFu7LD/Vfvs7EyDwSDG2GTopdcSeum1JGRvtFsP7n/Vvry8VK/XizE6CXrptYReei0J2ettQd2+uf37JO6bz+e7XVbOudafWqD3EL30tgm9h+j10+vtiuzDw8M/X1OWpcqy9DUyKXo/o7e96P2M3vZK1RvllC8AANa58Xj85+/EAADgv/0CSEANyO3Xg7wAAAAASUVORK5CYII="
+			"image" : "iVBORw0KGgoAAAANSUhEUgAAAqMAAAAZCAYAAAAFUSdSAAAABHNCSVQICAgIfAhkiAAAA1VJREFUeJzt3d9O6mgUQPFd2ggq9QJF9KV8WF/IK5SkxqDRIBToXBgZJ3PmTDz5vnVm0vW7EkPYZMWLndo/xXw+7+Ibbm5uvvP2b7u9vc36+f8XdmbYmWFnhp0ZdmbYmfFf6DzI+g0kSZKkn3AZlSRJ0m/jMipJkqTfpkr1QdPpNAaDv++22+022raN19fX2O/3qcb1lp0ZdmbYmWFnhp0ZdmaQnZMto3VdR1X988ftdrtomiZeXl5SjewlOzPszLAzw84MOzPszCA7J1tGP22321gulzEYDKKqqjg9PY2yLKMsy5jNZrHZbOL9/T312N6xM8PODDsz7MywM8PODKJz8mV0t9vF09PT4XVRFHF9fR3j8TiKooi6rv3jSMDODDsz7MywM8PODDsziM7ZL2Dqui4eHx8Pr4fDYe6RvWRnhp0ZdmbYmWFnhp0ZOTojV9N33Z/31fek4nzszLAzw84MOzPszLAzI3VnZBk9Pj4+/LzZbIiRvWRnhp0ZdmbYmWFnhp0ZqTtnX0ZHo1FMp9OI+Nikl8tl7pG9ZGeGnRl2ZtiZYWeGnRk5Oie/gKksy5hMJlFVVQyHw8P23HVdLBaL2G63qUf2kp0ZdmbYmWFnhp0ZdmYQnZMvo1VVxcXFxV9+t16vY7FYxHq9Tj2ut+zMsDPDzgw7M+zMsDOD6Jx8Gd3v9/H29hZFUcR4PI6Ij9sAeO5GWnZm2JlhZ4adGXZm2JlBdE5+zmjbtvHw8BD39/eH8wiOjo5iNpulHtVrdmbYmWFnhp0ZdmbYmUF0znoBU9M00bZtREScnZ1FXdc5x/WWnRl2ZtiZYWeGnRl2ZuTqnHUZ/Ty59fN+VJeXlz99zql+jZ0ZdmbYmWFnhp0Zdmbk6pz91k6r1Sqen58j4uOKrKurq9wje8nODDsz7MywM8PODDszcnRGbnr/9bDuyclJTCYTYmzv2JlhZ4adGXZm2JlhZ0bqztjjQL8e1j0/P4/RaESM7hU7M+zMsDPDzgw7M+zMSN052TL6+YW+Pq/0q9VqdbgKqygKD5//Ijsz7MywM8PODDsz7MwgOyc7u/fu7u5f39M0TTRNk2pkL9mZYWeGnRl2ZtiZYWcG2Rn5N70kSZL0I8V8Pv/x8VdJkiQpsz8Aq7ENyPgidggAAAAASUVORK5CYII="
 		}
-
+,
+		"autosave" : 0
 	}
 
 }
